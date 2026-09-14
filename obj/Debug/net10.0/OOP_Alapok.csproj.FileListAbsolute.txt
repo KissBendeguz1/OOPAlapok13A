@@ -1,0 +1,15 @@
+C:\Users\kissb\Desktop\C#\OOP_Alapok\bin\Debug\net10.0\OOP_Alapok.exe
+C:\Users\kissb\Desktop\C#\OOP_Alapok\bin\Debug\net10.0\OOP_Alapok.deps.json
+C:\Users\kissb\Desktop\C#\OOP_Alapok\bin\Debug\net10.0\OOP_Alapok.runtimeconfig.json
+C:\Users\kissb\Desktop\C#\OOP_Alapok\bin\Debug\net10.0\OOP_Alapok.dll
+C:\Users\kissb\Desktop\C#\OOP_Alapok\bin\Debug\net10.0\OOP_Alapok.pdb
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.AssemblyInfoInputs.cache
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.AssemblyInfo.cs
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.csproj.CoreCompileInputs.cache
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.sourcelink.json
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.dll
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\refint\OOP_Alapok.dll
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.pdb
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\OOP_Alapok.genruntimeconfig.cache
+C:\Users\kissb\Desktop\C#\OOP_Alapok\obj\Debug\net10.0\ref\OOP_Alapok.dll
